@@ -1,0 +1,1 @@
+ACCESS TOKEN: bxv2wyvx2ot1ahjtt4kqui75769h26vCLIENT NAME: abcCLIENT ID: m6yopeds43zpfc58vd63skqp9t8yphsCLIENT SECRET: 2e032b7013c22cc62b0492e9c886f1ffd5f497fb6708672bd424a9604624c70cNAME: abcAPI PATH: https://api.bigcommerce.com/stores/m5ct3euedw/v3/
